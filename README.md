@@ -53,7 +53,7 @@ To forecast crop production using historical data from the Kaggle `world_foods` 
 
 **Janani D**  
 B.Tech – Artificial Intelligence & Data Science  
-[🔗 LinkedIn](https://www.linkedin.com/in/syedmuhammadabdullah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
